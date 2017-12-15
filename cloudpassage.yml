@@ -1,0 +1,5 @@
+defaults:
+  key_id: <key_id>
+  secret_key: <key_secret>
+  api_hostname: api.cloudpassage.com
+  api_port: 443
